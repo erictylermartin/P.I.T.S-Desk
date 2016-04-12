@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PITS-Desktop:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/PITS_Desktop_jar2</output-path>
+    <root id="archive" name="PITS-Desktop.jar">
+      <element id="module-output" name="PITS-Desktop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/gson-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/google-http-client-gson-1.19.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/google-http-client-jackson2-1.19.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/google-http-client-android-1.19.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/java-api-core-2.10.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/java-lib-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/google-http-client-1.19.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/jackson-core-2.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/java-api-core-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kinvey-java-2.10.5/libs/java-lib-2.10.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/notification_API/controlsfx-8.40.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/notification_API/controlsfx-samples-8.40.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/notification_API/fxsampler-1.0.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
